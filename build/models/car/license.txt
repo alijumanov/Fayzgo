@@ -1,0 +1,11 @@
+Model Information:
+* title:	Truck WIP
+* source:	https://sketchfab.com/3d-models/truck-wip-33e925207e134652bd8c2465e5c16957
+* author:	Renafox (https://sketchfab.com/kryik1023)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Truck WIP" (https://sketchfab.com/3d-models/truck-wip-33e925207e134652bd8c2465e5c16957) by Renafox (https://sketchfab.com/kryik1023) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

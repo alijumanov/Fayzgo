@@ -1,0 +1,11 @@
+Model Information:
+* title:	US Cargo Plane with Real World Graphics
+* source:	https://sketchfab.com/3d-models/us-cargo-plane-with-real-world-graphics-9fd604fdced64401a271ee4444af7e03
+* author:	ABHISHEK VERMA , 3D Designer (https://sketchfab.com/abhishekverma)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "US Cargo Plane with Real World Graphics" (https://sketchfab.com/3d-models/us-cargo-plane-with-real-world-graphics-9fd604fdced64401a271ee4444af7e03) by ABHISHEK VERMA , 3D Designer (https://sketchfab.com/abhishekverma) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
